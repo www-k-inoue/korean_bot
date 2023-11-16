@@ -1,1 +1,4 @@
-pip freeze > requirements.txt
+Flask==2.2.2
+gspread==5.4.0
+line-bot-sdk==2.3.0
+oauth2client==4.1.3
